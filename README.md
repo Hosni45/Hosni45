@@ -1,6 +1,5 @@
-![Coding GIF](https://i.redd.it/0kdjwumjadj71.gif)
-https://i.redd.it/0kdjwumjadj71.gif
-https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif
+![Coding GIF](https://pin.it/18k08l2Y9)
+
 
 # Hi there, I'm Hosni! 👋
 
@@ -13,8 +12,9 @@ A passionate **Full-Stack Developer** with a background in **Business Management
 ### 👨‍💼 Professional Summary
 
 As a dedicated **Full-Stack JavaScript Developer** with a strong background in **business management**, I thrive in solving problems and collaborating with dynamic teams. My core values—integrity, innovation, and continuous learning—fuel my passion for creating impactful solutions. My ultimate goal is to master full-stack development and lead high-quality projects in fast-paced environments like startups.
-
+ [Moving Logos](#moving-logos-)
 ---
+
 
 ### 🚀 My Projects
 
