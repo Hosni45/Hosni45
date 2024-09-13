@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hosni! 👋
 
-<!--
-**Hosni45/Hosni45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Gamer | 💻 Developer | 🎓 Business Enthusiast  
 
-Here are some ideas to get you started:
+Hi, I'm Hosni! A passionate developer with a love for React and JavaScript, and always exploring the world of TypeScript. With a Master's degree in Business Management, I’m constantly balancing my passion for coding with my business mindset. Whether it's building efficient web apps or leveling up in the latest game, I'm all about finding that perfect blend between tech and strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+### 🔧 Tech I work with:
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js
+- **Learning**: TypeScript
+
+### 🌱 What I'm up to:
+I'm balancing coding with my background in business management, always learning and evolving!
+
+
+
+
+
+
