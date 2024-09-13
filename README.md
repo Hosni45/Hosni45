@@ -35,6 +35,7 @@ As a dedicated **Full-Stack JavaScript Developer** with a strong background in *
 - Teamwork
 - Time Management
 - Adaptability
+- Godd Vibes
 
 ---
 
@@ -42,7 +43,7 @@ As a dedicated **Full-Stack JavaScript Developer** with a strong background in *
 
 - **Email:** [Lahzamimedhosni@gmail.com](mailto:Lahzamimedhosni@gmail.com)
 - **GitHub:** [Hosni45](https://github.com/Hosni45)
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/med-hosni)
 
 ---
 
